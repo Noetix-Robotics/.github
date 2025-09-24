@@ -1,4 +1,4 @@
-<img src="https://noetixrobotics.feishu.cn/file/GPX4beW4xoBbU7xkEAScHJCdn8c" width="306" height="77" align="center">
+<img src="https://github.com/NoetixTzy/origin_picture/blob/main/logo_black.png?raw=true" width="306" height="77" align="center">
 
 Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and general-purpose humanoid robots. We are committed to the independent R&D and technological innovation of complete robot products, with a focus on enhancing the motion control capabilities and perceptual computing capabilities of humanoid robots. Currently, we have achieved milestones including high-speed human-like running and continuous multi-terrain backflips for legged humanoid robots, smooth interaction for biomimetic humanoid robots, and generalized upper-limb manipulation. Additionally, we have accumulated experience in deploying our solutions in scenarios such as education, scientific research, cultural tourism, and guided tours.
 
