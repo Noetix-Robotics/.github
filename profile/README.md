@@ -19,7 +19,7 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
 <table><tbody>
 
 <div>
-    <img src="https://github.com/NoetixTzy/origin_picture/blob/main/open_source.svg" width="20" height="20" style="display:inline-block; vertical-align:top;">
+    <img src="https://github.com/NoetixTzy/origin_picture/blob/main/open_source.svg" width="35" height="35" style="display:inline-block; vertical-align:top;">
     <span style="display:inline-block; vertical-align:top;">Open source projects</span> 
 </div>
 
