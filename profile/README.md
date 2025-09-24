@@ -4,9 +4,9 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
 
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/UnitreeRobotics)
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw/featured)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](http://www.facebook.com/UnitreeRobotics)
-[![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/521974986)
-[![Doc](https://img.shields.io/badge/Doc-FFA500?style=flat&logo=rss&logoColor=white)](https://support.unitree.com/main)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](http://www.facebook.com/UnitreeRobotics)-->
+[![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546714680068378)
+<!--[![Doc](https://img.shields.io/badge/Doc-FFA500?style=flat&logo=rss&logoColor=white)](https://support.unitree.com/main)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Laikago@unitree.cc)
 <a href="https://github.com/unitreerobotics">
 <img src="https://badges.strrl.dev/years/unitreerobotics?style=flat-square&logo=github">
