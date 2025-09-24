@@ -1,8 +1,8 @@
-<img src="https://bpic.588ku.com/element_origin_min_pic/23/07/11/d32dabe266d10da8b21bd640a2e9b611.jpg!r650" width="306" height="77" align="center">
+<img src="https://noetixrobotics.feishu.cn/file/GPX4beW4xoBbU7xkEAScHJCdn8c" width="306" height="77" align="center">
 
-Unitree Robotics is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, six-axis manipulators, and so on. We attaches great importance to independent research and development and technological innovation, fully self-researching key core robot components such as motors, reducers, controllers, LIDAR and high-performance perception and motion control algorithms, integrating the entire robotics industry chain.
+Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and general-purpose humanoid robots. We are committed to the independent R&D and technological innovation of complete robot products, with a focus on enhancing the motion control capabilities and perceptual computing capabilities of humanoid robots. Currently, we have achieved milestones including high-speed human-like running and continuous multi-terrain backflips for legged humanoid robots, smooth interaction for biomimetic humanoid robots, and generalized upper-limb manipulation. Additionally, we have accumulated experience in deploying our solutions in scenarios such as education, scientific research, cultural tourism, and guided tours.
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/UnitreeRobotics)
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/UnitreeRobotics)
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw/featured)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](http://www.facebook.com/UnitreeRobotics)
 [![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/521974986)
@@ -13,7 +13,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
 </a>
 <a href="https://github.com/unitreerobotics?tab=repositories">
 <img src="https://badges.strrl.dev/repos/unitreerobotics?style=flat-square&logo=github">
-</a>
+</a> -->
 
 
 <table><tbody>
