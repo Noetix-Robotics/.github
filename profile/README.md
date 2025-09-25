@@ -28,25 +28,25 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
-    <tr>
-        <td align="center" ><span> unitree_model </span></td>
+    <!-- <tr>
+        <td align="center" ><span> noetix_sdk </span></td>
         <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"> here </a>. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_model?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_model?style=flat-square"/></td>
-    </tr>
+    </tr> -->
     <tr>
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
-            <a href="https://www.ros.org/" target="_blank"> ROS1/ROS2</a>
+        <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+            <span> noetix_sdk </span>
         </td>
-        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> unitree_ros </a> <br> ROS simulation package. It has urdf files of all Unitree series robots, <br>contains information such as  mass, inertia, moment, limit and so on. <br> Newly support G1.</td>
+        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> sdk_n2 </a> <br> This is sdk for noetix robot N2 with <br> DDS interface.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square"/></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_ros2" target="_blank"> unitree_ros2</a> <br> Develop Go2 and B2 robots in the ros2 environment. <br>The interface types provided are consistent with unitree_sdk2. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros2?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros2?style=flat-square"/></td>
-    </tr>
+    </tr> -->
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_mujoco"> unitree_mujoco </a></td>
         <td>  Use Mujoco as a simulator and has sim-to-real implementations, integrate with <br>
