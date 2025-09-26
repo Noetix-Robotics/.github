@@ -36,9 +36,9 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
     </tr> -->
     <tr>
         <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
-            <span> noetix_sdk </span>
+            <span> Robot SDK </span>
         </td>
-        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> sdk_n2 </a> <br> This is sdk for noetix robot N2 with <br> DDS interface.</td>
+        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> noetix_sdk_n2 </a> <br> This is sdk for noetix robot N2 with <br> DDS interface.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square"/></td>
     </tr>
@@ -47,23 +47,23 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros2?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros2?style=flat-square"/></td>
     </tr> -->
-    <tr>
+    <!-- <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_mujoco"> unitree_mujoco </a></td>
         <td>  Use Mujoco as a simulator and has sim-to-real implementations, integrate with <br>
         terrain generator. Support C++/Python interface. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_mujoco?style=flat-square"/></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr> -->
         <!-- <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> unitree_rl_gym </a></td> -->
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <!-- <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> unitree_rl </a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree_rl_gym" target="_blank"> unitree_rl_gym</a> <br> An Issac simulation example for reinforcement learning, supports Go2, H1, G1. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_rl_lab" target="_blank"> unitree_rl_lab</a> <br> Reinforcement learning implementation for Unitree robots, based on IsaacLab. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_lab?style=flat-square"/></td>
@@ -108,8 +108,8 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
         <td><a href="https://github.com/unitreerobotics/unitree_sdk2_python" target="_blank"> unitree_sdk2_python</a> <br> Python interface for unitree_sdk2. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square"/></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_guide"> unitree_guide </a></td>
         <td>  An instance control algorithm by book <br>"Quadruped Robot Control Algorithm--Modeling, Control and Practice" <br>published by Unitree. It demonstrates the robot joint motor control <br>method, simple foot movements, and force control algorithm. <br>Both simulation and real robot development environments supports. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_guide?style=flat-square"/></td>
@@ -120,7 +120,7 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
         <td>  This repository adapts the state-of-the-art lidar inertial odometry <br>algorithm, Point-LIO, for use Unitree 4D Lidar L1. <br>It can complete SLAM using only its piontcloud and built-in IMU. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
-    </tr>
+    </tr> -->
     </tbody>
 </table>
 
