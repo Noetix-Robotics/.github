@@ -48,12 +48,17 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Noetix-Robotics/noetix_sdk_e1?style=flat-square"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <span> Noetix_rl </span>
         </td>
         <td><a href="https://github.com/Noetix-Robotics/noetix_n2_gym" target="_blank"> noetix_n2_gym </a> <br>Reinforcement learning framework for training N2 humanoid robots in Isaac Gym. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Noetix-Robotics/noetix_n2_gym?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Noetix-Robotics/noetix_n2_gym?style=flat-square"/></td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/Noetix-Robotics/noetix_e1_lab" target="_blank"> noetix_e1_lab </a> <br>Reinforcement learning framework for training E1 humanoid robots in Isaac Lab. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Noetix-Robotics/noetix_e1_lab?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Noetix-Robotics/noetix_e1_lab?style=flat-square"/></td>
     </tr>
     <!-- <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_ros2" target="_blank"> unitree_ros2</a> <br> Develop Go2 and B2 robots in the ros2 environment. <br>The interface types provided are consistent with unitree_sdk2. </td>
