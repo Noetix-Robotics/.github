@@ -27,7 +27,7 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
 
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
-    <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr> 
+    <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>  
     <!-- <tr>
         <td align="center" ><span> noetix_sdk </span></td>
         <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"> here </a>. </td>
