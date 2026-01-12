@@ -43,7 +43,7 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Noetix-Robotics/noetix_sdk_n2?style=flat-square"/></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Noetix-Robotics/noetix_sdk_e1" target="_blank"> noetix_sdk_e1 </a> <br> This is sdk for noetix robot E1 with DDS interface. <br> The interface provides lowcontroller.</td>
+    <td><a href="https://github.com/Noetix-Robotics/noetix_sdk_e1" target="_blank"> noetix_sdk_e1 </a> <br> This is sdk for noetix robot E1 with DDS interface. <br> The interface provides highcontroller.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Noetix-Robotics/noetix_sdk_e1?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Noetix-Robotics/noetix_sdk_e1?style=flat-square"/></td>
     </tr>
