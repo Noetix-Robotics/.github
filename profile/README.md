@@ -48,6 +48,11 @@ Noetix Robotics focuses on the R&D, production, and sales of consumer-grade and 
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Noetix-Robotics/noetix_sdk_e1?style=flat-square"/></td>
     </tr>
     <tr>
+    <td><a href="https://github.com/Noetix-Robotics/noetix_sdk_bumi" target="_blank"> noetix_sdk_bumi </a> <br> This is sdk for noetix robot Bumi with DDS interface. <br> The interface provides highcontroller and lowcontroller.</td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Noetix-Robotics/noetix_sdk_bumi?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Noetix-Robotics/noetix_sdk_bumi?style=flat-square"/></td>
+    </tr>
+    <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <span> Noetix_rl </span>
         </td>
